@@ -31,3 +31,8 @@ Just 2 days ago https://github.com/ollama/ollama/issues/2637#issuecomment-227291
 It is important to have Linux Kernel 6.10 running, as stated in https://www.phoronix.com/news/Linux-6.10-AMDKFD-Small-APUs
 
 Currently on my Thinkpad I have Manjaro running Kernel 6.6, but 6.10 is available...
+
+
+# Links
+
+https://www.youtube.com/watch?v=h34vA2bkbtk
