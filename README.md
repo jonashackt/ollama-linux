@@ -36,3 +36,8 @@ Currently on my Thinkpad I have Manjaro running Kernel 6.6, but 6.10 is availabl
 # Links
 
 https://www.youtube.com/watch?v=h34vA2bkbtk
+
+
+## eGPU
+
+https://www.notebookcheck.com/GPD-G1-eGPU-im-Test-Externe-AMD-Radeon-RX-7600M-XT-mit-8-GB-VRAM-nutzt-USB-4-0-oder-OCuLink.775468.0.html
