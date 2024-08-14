@@ -40,4 +40,13 @@ https://www.youtube.com/watch?v=h34vA2bkbtk
 
 ## eGPU
 
+https://www.notebookcheck.com/MateBook-GT-14-OLED-Notebook-startet-auch-mit-Intel-Core-Ultra-9-und-unterstuetzt-externe-Grafikkarten.873504.0.html
+https://www.notebookcheck.com/Huawei-Hi-GT-Cube-Kompakte-externe-Grafikkarte-startet-mit-Einschraenkungen.870875.0.html
+
 https://www.notebookcheck.com/GPD-G1-eGPU-im-Test-Externe-AMD-Radeon-RX-7600M-XT-mit-8-GB-VRAM-nutzt-USB-4-0-oder-OCuLink.775468.0.html
+
+https://www.igorslab.de/der-grosse-egpu-guide-und-benchmark-test-was-taugt-eine-extern-betriebene-grafikkarte-nvidia-oder-amd-wer-kommt-besser-damit-klar/6/
+
+https://egpu.de/razer-core-x/
+
+
